@@ -108,7 +108,7 @@
 .places .amenities, .places .reviews
 {
     margin-top: 40px;
-    margin-left: 0px;
+    margin-left: -10px;
     width: 100%;
 }
 
