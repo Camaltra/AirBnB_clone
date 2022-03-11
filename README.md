@@ -141,3 +141,8 @@ Example of first use:
             (hbnb) User.count()
             2
             (hbnb) 
+
+## The web static
+
+This is the first version of the front-end web page. Each file until the 103-index.html are prototypes. The last one, 103-index.html, is the final version, responsive and also treat the accessibility.
+There are no comminication between the console and the web yet.
